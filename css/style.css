@@ -258,3 +258,19 @@ section {
 .card-text{
   color: #000;
 }
+
+@media (max-width: 500px)
+{
+  .hero-title {
+    font-size: 4rem;
+  }  
+  .hero-subtitle {
+    font-size: 1.25rem;
+
+  }
+  .rotator-box {
+    height: 1.5rem;
+  
+  }
+
+}
